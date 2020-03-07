@@ -4,6 +4,8 @@ Tool to determine min and max pulse widths to use for a servo
 
 <img src="screenshot.png" width="400">
 
+Video: https://www.youtube.com/watch?v=QkUJ3FRBVaw
+
 Wiring diagram:
 
 <img src="servo_calibration_bb.png" width="800">
